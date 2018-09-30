@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Focuser
+## Notes: Sets your focus by shift clicking
+## Author: Slizen, Areasis(Backporter)
+## Version 0.51
+
+Focuser.lua
